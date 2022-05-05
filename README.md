@@ -64,25 +64,25 @@ Teniendo listo el Hub creado, procedemos a crear un nuevo dispositivo para conec
 Al crear el dispositivo, la misma plataforma nos informara una clave de acceso que tendra este dispositivo para conectarse al Hub y poder que lleguen los datos al mismo, procedemos a encontrar la clave primaria y la pegamos en el simulador, en el codigo en el rengln #15.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_202045340.png">
+  <img width="1920" height="1080" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_202045340.png">
 </p>
 
 Y listo, se prueba la conexión corriendo la simulación y verificamos que por consola se verifique que se esta enviando la información al Hub.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_202251573.png">
+  <img width="1920" height="1080" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_202251573.png">
 </p>
 
 Verificamos en el Hub que inicialmente tiene 0 mensajes recibidos.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_200216708.png">
+  <img width="1920" height="1080" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-04_200216708.png">
 </p>
 
 Y encontramos que la conexción entre la RaspBerry Pi es correcta porque en el Hub nos evidencia o nos notifica la cantidad de mensajes recibidos.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-02_152449275.png">
+  <img width="1920" height="1080" src="https://github.com/KillerCely/Workshop-Azure/blob/main/imagen_2022-05-02_152449275.png">
 </p>
 
 
