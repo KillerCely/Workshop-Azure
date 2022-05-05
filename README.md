@@ -19,5 +19,8 @@ Mediante la informática de bajo costo, la nube, big data, analítica y tecnolog
 
 Para la implementación, se conectara una Raspberry Pi con un sensor de temperatura y humedad que estara conectado a la plataforma de Azure, Microsoft Azure es un servicio de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos. Con este servicio de Microsoft, queremos hacer la conexión de la Raspberry a IoT Hub de Azure y verificar como funciona el internet de las cosas.
 
-#Sensores
+# Sensores
+
+En la implementación, se utiliza un sensor BME280, el sensor BME280 integra en un solo dispositivo sensores de presión atmosférica, temperatura y humedad relativa, con gran precisión, bajo consumo energético y un formato ultra compacto.
+
 
