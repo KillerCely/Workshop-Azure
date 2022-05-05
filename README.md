@@ -24,7 +24,7 @@ Para la implementación, se conectara una Raspberry Pi con un sensor de temperat
 En la implementación, se utiliza un sensor BME280, el sensor BME280 integra en un solo dispositivo sensores de presión atmosférica, temperatura y humedad relativa, con gran precisión, bajo consumo energético y un formato ultra compacto.
 
 <p align="center">
-  <img width="139" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/61A76CnJ-LL._SL1500_.jpg">
+  <img width="400" height="600" src="https://github.com/KillerCely/Workshop-Azure/blob/main/61A76CnJ-LL._SL1500_.jpg">
 </p>
 
 
